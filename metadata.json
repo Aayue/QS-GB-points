@@ -1,0 +1,5 @@
+{
+  "description": "教师课时与得分计算器，支持导入图片、PDF或Excel表格，根据课时规则（≤10: 0分，11-20: 1分，>20: 3分）严格按标准名单顺序汇总计算教师得分并导出Excel。",
+  "requestFramePermissions": [],
+  "name": "教师得分计算器"
+}
